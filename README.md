@@ -1,23 +1,23 @@
-# 🌐 Monitoria de Programação Web — Exercícios em HTML e JavaScript
+# Monitoria de Programação Web: Exercícios em HTML e JavaScript
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Repositório com os códigos desenvolvidos durante as atividades de **monitoria de Programação Web** (IFSP Campus Presidente Epitácio). Os exercícios trabalham a integração entre **HTML** e **JavaScript** puro por meio de funções modulares de entrada (`document.getElementById().value`), processamento e saída.
+Códigos desenvolvidos durante as aulas de monitoria da disciplina de Programação Web no IFSP (Campus Presidente Epitácio). Os exercícios cobrem conceitos básicos de HTML e JavaScript puro com manipulação de formulários, cálculos e funções.
 
-📄 A lista original de enunciados está disponível em [ProjetoJSeHTML.pdf](ProjetoJSeHTML.pdf).
+A lista com os enunciados dos exercícios está no arquivo [ProjetoJSeHTML.pdf](ProjetoJSeHTML.pdf).
 
 ---
 
-## 📸 Capturas de Tela
+## Capturas de tela
 
-| Exercício 1 — Calculadora Multioperação | Exercício 9 — Decomposição em Cédulas e Moedas |
+| Exercício 1: Calculadora | Exercício 9: Decomposição de cédulas |
 | :---: | :---: |
 | ![Exercício 1](images/exercicio1-calculadora.png) | ![Exercício 9](images/exercicio9-cedulas.png) |
 
 ---
 
-## 📚 Lista de Exercícios
+## Lista de exercícios
 
 | # | HTML | JavaScript | Descrição da Atividade |
 | :---: | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Repositório com os códigos desenvolvidos durante as atividades de **monitoria 
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do repositório
 
 ```text
 monitoria-programa-oweb/
@@ -46,7 +46,7 @@ monitoria-programa-oweb/
 
 ---
 
-## 🚀 Como Executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
@@ -56,6 +56,6 @@ monitoria-programa-oweb/
 
 ---
 
-## 👤 Autor
+## Autor
 
-Desenvolvido por **Tobias Rafael** ([@rtobias-git](https://github.com/rtobias-git)) — Monitoria de Programação Web (IFSP Campus Presidente Epitácio).
+Desenvolvido por **Tobias Rafael** ([@rtobias-git](https://github.com/rtobias-git)), monitor da disciplina no IFSP Campus Presidente Epitácio.
